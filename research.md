@@ -92,7 +92,7 @@ There is no reason against languages besides python, and there is no reason agai
 * https://duckduckgo.com/?q=json+schema&ia=about
 * https://duckduckgo.com/?q=json+design+patterns
 * http://twigkit.github.io/tempo/
-* https://open.blockspring.com/pkpp1233/xml-json-explorer
+* https://coefficient.io/
 
 ## Template-related
 
