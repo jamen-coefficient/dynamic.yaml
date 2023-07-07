@@ -2,7 +2,7 @@
 
 # dynamic.yaml
 
-> YAML-based data transformations - live demo on [blockspring](https://open.blockspring.com/dreftymac/2dc5183fbb912fc3c553fc14bbe15e43).
+> YAML-based data transformations - live demo on [coefficient.io](https://coefficient.io/).
 
 ## Overview
 
@@ -15,9 +15,9 @@ The design philosophy of this project:
 * support for advanced features and an unlimited range of outputs
 * easy extensibility and plugin support
 
-## Live demo (blockspring.com)
+## Live demo (https://coefficient.io/)
 
-Try it now with [blockspring](https://open.blockspring.com/dreftymac/2dc5183fbb912fc3c553fc14bbe15e43).
+Try it now with [coefficient.io](https://coefficient.io/).
 
 * **Step**: save the following to a text file on your machine (e.g., helloworld.yaml)
 ```
@@ -51,7 +51,7 @@ __yaml__:
       {{ dataroot |jjdata_formatas('jsonpretty') }}
 ```
 
-* **Step**: Upload the file to [blockspring](https://open.blockspring.com/dreftymac/2dc5183fbb912fc3c553fc14bbe15e43) and choose "Run"
+* **Step**: Upload the file to [coefficient.io](https://coefficient.io/) and choose "Run"
 
 * **Step**: Use the data transformation results for anything you want. All done!
 
